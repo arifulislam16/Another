@@ -1,1 +1,2 @@
 Hello from b2 local branch
+Changed from remote b2 branch
